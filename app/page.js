@@ -9,7 +9,7 @@ const page = () => {
       <Viewer theme='dark' fileUrl="/FarhanResume.pdf" />;
       </Worker>
     </div>
-  );
+  )
 };
 
 export default page;
